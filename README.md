@@ -31,15 +31,3 @@ Ensure that you have the following installed on your system:
    ```bash
    git clone https://github.com/yourusername/ecommerce-shimoga.git
 
-### Project structure
-.
-├── public/              # Public assets
-├── src/
-│   ├── components/      # Reusable UI components (Header, ProductList, etc.)
-│   ├── pages/           # Main pages (Home, ProductDetails, etc.)
-│   ├── App.tsx          # Main application entry point
-│   ├── index.tsx        # Renders the application
-│   └── ...
-├── package.json         # Project dependencies and scripts
-├── tsconfig.json        # TypeScript configuration
-└── README.md            # Project documentation
