@@ -17,7 +17,7 @@ This project is an e-commerce platform built for a local store in Shimoga, enabl
 - **Lucide-React**: Provides icon support for the UI.
 
 ## Project Setup
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/9e712269-8cac-4a13-bcdd-9edee9ed7679)
 
 ### Prerequisites
 
